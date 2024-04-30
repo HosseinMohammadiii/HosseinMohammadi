@@ -1,7 +1,7 @@
 <h1>Hi freind👋</h1>
 <p>Language and Tools</p>
 <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flutter/flutter-plain.svg" title="Flutter" **alt="Flutter" width="40" height="40"/>
 </div>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HosseinMohammadiii&theme=dark" alt="GitHub Streak" /></a>
 
