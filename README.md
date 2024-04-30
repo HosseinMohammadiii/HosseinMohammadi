@@ -1,2 +1,2 @@
 <h1>Hi freind👋</h1>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HosseinMohammadiii&theme=dark" alt="GitHub Streak" /></a>
